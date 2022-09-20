@@ -1,0 +1,6 @@
+# 1. You need to rent a server throught one of the providers
+
+According to the ethernodes.org the largest server provider is Amazon, then Hetzner, Google OVH and others..
+
+I really doesn't matter which one to choose. 
+The only thing you should care is the server parametrs (8 vCPUs, 64gb memory, 1TB SSD, Fixed IP address, 1gb/s)
