@@ -4,9 +4,7 @@ This is a very detailed guide on how to run node on the TON blockchain. The over
 ### I. Running TON Validator
 #### 1. Rent a server
 #### 2. Install mytonctrl
-#### 3. Configure software
-#### 4. Activate validator wallet
-#### 5. Configure the validator
+#### 3. Activate validator wallet
 #
 ### II. Running TON Nominators pool
 #### 1. Update mytonctrl
