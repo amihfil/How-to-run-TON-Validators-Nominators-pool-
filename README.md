@@ -1,4 +1,4 @@
-# How to run TON Validators/Nominators pool
+## How to run TON Validators/Nominators pool
 
 ### 1. Rent a server
 ### 2. Install mytonctrl
