@@ -1,1 +1,1 @@
-# How-to-run-TON-Validators-Nominators-pool-
+# How-to-run-TON-Validators-Nominators-pool
