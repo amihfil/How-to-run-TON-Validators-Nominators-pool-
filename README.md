@@ -3,8 +3,29 @@ This is a very detailed guide on how to run node on the TON blockchain. The over
 ##
 ### I. Running TON Validator
 #### 1. Rent a server
+
+It could be any server with the necessary resources mentioned on the ton validator page (8CPU, 64 GB RAM, 1TB storage and 1Gb internet speed)
+
 #### 2. Install mytonctrl
+
+Use standard instruction provided here https://github.com/NM005/mytonctrl
+
 #### 3. Activate validator wallet
+
+If you want to use a wallet that is already exists you have to install this software 
+
+https://github.com/NM005/mnemonic2key
+
+and dont forget add tonweb extension 
+
+npm install tonweb
+
+Then you have to start a generation of keys like in article and after this you will get 2 files in mnemonic2key directory .addr and .pk 
+
+Then you need to put these keys in directory /mytoncore/wallets. It could new wallet or you can rename two new files to the names of existed local wallet and replace it
+
+if you replace - you dont need to activate it, if you put a new wallt - just activate it using command aw.
+
 #
 ### II. Running TON Nominators pool
 #### 1. Update mytonctrl
